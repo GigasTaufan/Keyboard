@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Keyboard</string>
+    <string name="keyboard_name">Keyboard Name</string>
+    <string name="keyboard_price">Keyboard Price</string>
+    <string name="keyboard_detail">Keyboard Detail</string>
+    <string name="about">About</string>
+    <string name="email">gigastaufan@gmail.com</string>
+    <string name="name">Gigas Taufan Arvyanto</string>
+    <string name="about_me">About Me</string>
+    <string name="mechanical_keyboard">Mechanical Keyboard</string>
+    <string name="welcome">WELCOME</string>
+    <string name="logo">Logo</string>
+</resources>
